@@ -1,6 +1,6 @@
 {
 	"name": "pomelo-masterha-plugin",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"private": false,
 	"dependencies": {
   	"node-zookeeper-client": "0.2.0",
