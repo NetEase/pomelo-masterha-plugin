@@ -3,7 +3,7 @@
 	"version": "0.0.2",
 	"private": false,
 	"dependencies": {
-  	"node-zookeeper-client": "0.1.1",
+  	"node-zookeeper-client": "0.2.0",
   	"pomelo-logger": "0.1.1"
 	}
 }
